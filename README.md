@@ -2,7 +2,9 @@
 <br>
 
 <div align="center">
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yangda10&layout=compact)
+  <a href="https://github.com/yangda10/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yangda10&layout=compact" />
+  </a>
 </div>
 
 <!--
