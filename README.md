@@ -9,7 +9,7 @@
 
 <div>
   <h3>I'm currently learning...</h3>
-  <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascriptlogoColor=black"
+  <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascriptlogoColor=0c0c0b"
 </div>
 
 <!--
