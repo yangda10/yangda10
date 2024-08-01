@@ -1,5 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=soft&text=Yang's%20Github&color=auto&animation=fadeIn)
-<br>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&text=Yang's%20Github&color=auto&animation=fadeIn">
+</div>
 
 <div align="center">
   <a href="https://github.com/yangda10/github-readme-stats">
