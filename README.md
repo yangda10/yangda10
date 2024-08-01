@@ -7,7 +7,7 @@
   </a>
 </div>
 
-<div>
+<div align="center">
   <h3>I'm currently learning...</h3>
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=0c0c0b">
   <img src="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white">
