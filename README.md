@@ -1,7 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&text=Yang's%20Github&color=auto&animation=fadeIn)
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yangda10&layout=compact)
 
+<div align='center'>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yangda10&layout=compact)
+</div>
 
 <!--
 **yangda10/yangda10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
