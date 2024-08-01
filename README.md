@@ -7,6 +7,11 @@
   </a>
 </div>
 
+<div>
+  <h3>I'm currently learning...</h3>
+  <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white"
+</div>
+
 <!--
 **yangda10/yangda10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
