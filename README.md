@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&text=Yang's%20Github&color=auto&animation=fadeIn)
 <br>
 
-<div align='center'>
+<div align="center">
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yangda10&layout=compact)
 </div>
 
